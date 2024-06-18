@@ -1,0 +1,11 @@
+E:\Works\NSCAM\NSCAM\NSCAM\bin\Debug\NSCAM.exe.config
+E:\Works\NSCAM\NSCAM\NSCAM\bin\Debug\NSCAM.exe
+E:\Works\NSCAM\NSCAM\NSCAM\bin\Debug\NSCAM.pdb
+E:\Works\NSCAM\NSCAM\NSCAM\obj\Debug\NSCAM.csproj.AssemblyReference.cache
+E:\Works\NSCAM\NSCAM\NSCAM\obj\Debug\NSCAM.csproj.SuggestedBindingRedirects.cache
+E:\Works\NSCAM\NSCAM\NSCAM\obj\Debug\NSCAM.RawViewer.resources
+E:\Works\NSCAM\NSCAM\NSCAM\obj\Debug\NSCAM.Properties.Resources.resources
+E:\Works\NSCAM\NSCAM\NSCAM\obj\Debug\NSCAM.csproj.GenerateResource.cache
+E:\Works\NSCAM\NSCAM\NSCAM\obj\Debug\NSCAM.csproj.CoreCompileInputs.cache
+E:\Works\NSCAM\NSCAM\NSCAM\obj\Debug\NSCAM.exe
+E:\Works\NSCAM\NSCAM\NSCAM\obj\Debug\NSCAM.pdb
